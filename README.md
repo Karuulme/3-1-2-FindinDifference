@@ -9,3 +9,5 @@ I can give a short example of this
 
 let's take a closer look, if we start the loop at index 0, it will give us the value 2.
 if we start the loop in reverse.  gives us the value 1.
+
+the rest is the classic difference finding method
